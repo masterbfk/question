@@ -1,5 +1,5 @@
 # question
-####Exe dizininde bulunan a.txt isimli dosyadan okunan "," ile ayrılmış değerlere göre hesaplama yapmaktadır. Editleyerek farklı datalar girebilirsiniz.
+Exe dizininde bulunan a.txt isimli dosyadan okunan "," ile ayrılmış değerlere göre hesaplama yapmaktadır. Editleyerek farklı datalar girebilirsiniz.
 
 ```c#
  public class Solution
