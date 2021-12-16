@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.exe
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.deps.json
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.runtimeconfig.json
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.runtimeconfig.dev.json
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.dll
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\bin\Debug\netcoreapp3.1\netcadAssessment.pdb
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.AssemblyInfo.cs
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.dll
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.pdb
+C:\Users\asus\Desktop\netcadAssessment\netcadAssessment\obj\Debug\netcoreapp3.1\netcadAssessment.genruntimeconfig.cache
